@@ -29,17 +29,14 @@ DOMAIN-SUFFIX,zoxfree.3767483.xyz
 DOMAIN-SUFFIX,hka-emby.aliz.work
 #> 云幕（内测服）
 DOMAIN-SUFFIX,nubebelle.vip
-DOMAIN-SUFFIX,emby-a.nubebelle.vip
-DOMAIN-SUFFIX,emby-b.nubebelle.vip
-DOMAIN-SUFFIX,emby-c.nubebelle.vip
-DOMAIN-SUFFIX,emby.nubebelle.vip
-DOMAIN-SUFFIX,emby.nubebelle.cn
-DOMAIN-SUFFIX,emby-sg.nubebelle.vip
+DOMAIN,emby-a.nubebelle.vip
+DOMAIN,emby-b.nubebelle.vip
+DOMAIN,emby-c.nubebelle.vip
+DOMAIN,emby.nubebelle.vip
+DOMAIN,emby.nubebelle.cn
+DOMAIN,emby-sg.nubebelle.vip
 #> Youno
-DOMAIN-SUFFIX,emby.younoyes.com
-# 直连
-DOMAIN-SUFFIX,jp.younoyes.com
-DOMAIN-SUFFIX,us.younoyes.com
+DOMAIN,emby.younoyes.com
 #> ikun音乐服
 DOMAIN-SUFFIX,diaojinping.de
 #> PlayZ
