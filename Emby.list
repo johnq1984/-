@@ -1,15 +1,49 @@
-# NAME: Emby
+# NAME: Emby分流
 # AUTHOR: justdoiting
 # REPO: https://github.com/justdoiting/emby-rules
-# UPDATED: 2025-06-06 09:18:50
+# UPDATED: 2025-08-06 09:18:50
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 45
+# DOMAIN-SUFFIX: 86
 # PROCESS-NAME: 1
-# TOTAL: 52
+# TOTAL: 86
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
+DOMAIN-SUFFIX,emby.nubebelle.cn
+DOMAIN-SUFFIX,emby-b.nubebelle.vip
+DOMAIN-SUFFIX,emby-c.nubebelle.vip
+DOMAIN-SUFFIX,emby-a.nubebelle.vip
+DOMAIN-SUFFIX,emby.nubebelle.vip
+DOMAIN-SUFFIX,emby-sg.nubebelle.vip
+DOMAIN-SUFFIX,lite.cn2gias.uk
+DOMAIN-SUFFIX,cf.yunti.online
+DOMAIN-SUFFIX,emby.nebula-media.org
+DOMAIN-SUFFIX,emby.misaka.plus
+DOMAIN-SUFFIX,c2.staryuki.me
+DOMAIN-SUFFIX,de2.staryuki.me
+DOMAIN-SUFFIX,zoxfree.3767483.xyz
+DOMAIN-SUFFIX,hka-emby.aliz.work
+DOMAIN-SUFFIX,emby-a.nubebelle.vip
+DOMAIN-SUFFIX,emby-b.nubebelle.vip
+DOMAIN-SUFFIX,emby-c.nubebelle.vip
+DOMAIN-SUFFIX,emby.nubebelle.vip
+DOMAIN-SUFFIX,emby.nubebelle.cn
+DOMAIN-SUFFIX,emby-sg.nubebelle.vip
+DOMAIN-SUFFIX,music.wenjian.de
+DOMAIN-SUFFIX,yin.wenjian.de
+DOMAIN-SUFFIX,book.hsu.life
+DOMAIN-SUFFIX,book.wenjian.de
+DOMAIN-SUFFIX,emby.younoyes.com
+DOMAIN-SUFFIX,jp.younoyes.com
+DOMAIN-SUFFIX,us.younoyes.com
+DOMAIN-SUFFIX,diaojinping.de
+DOMAIN-SUFFIX,playz.mjji.de
+DOMAIN-SUFFIX,cf.lemby.me
+DOMAIN-SUFFIX,us.lemby.me
+DOMAIN-SUFFIX,emby.heisi.org
+DOMAIN-SUFFIX,yinhai.aiinyue.com
+DOMAIN-SUFFIX,vip.nangua.de
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,285286.xyz
 DOMAIN-SUFFIX,agahk1.jmsooo.com
