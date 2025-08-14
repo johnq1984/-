@@ -1,20 +1,33 @@
 #======================================#
 
-#更新时间：2025-08-14    16:23:30
+#更新时间：2025-08-14    17:18:30
 
 #======================================#
 
-DOMAIN,emby.enjoyit.eu.org
-DOMAIN,emby.lcloud.wiki
-DOMAIN,notnetflix.cos.cat
+#> 纸片党
+DOMAIN-SUFFIX,media.nijigem.by
+#> Nya硬盘服
+DOMAIN,ap-cn01.emby.bangumi.ca
+#> 105º
+DOMAIN-SUFFIX,ciallo.party
+#> 存档服
+DOMAIN,emby.zn.al
+#> 守候网络
 DOMAIN-SUFFIX,lite.cn2gias.uk
-DOMAIN-SUFFIX,cf.yunti.online
+#> 肯德基公费服
+DOMAIN-SUFFIX,kfc.v50.su
+#> 星云公益服
 DOMAIN-SUFFIX,emby.nebula-media.org
-DOMAIN-SUFFIX,emby.misaka.plus
+#> 玖玖玖
+DOMAIN-SUFFIX,misaka.plus
+#> Star
 DOMAIN-SUFFIX,c2.staryuki.me
-DOMAIN-SUFFIX,de2.staryuki.me
+DOMAIN-SUFFIX,de2.staryuki.me   
+#> ZOX
 DOMAIN-SUFFIX,zoxfree.3767483.xyz
+#> HKA
 DOMAIN-SUFFIX,hka-emby.aliz.work
+#> 云幕（内测服）
 DOMAIN-SUFFIX,nubebelle.vip
 DOMAIN-SUFFIX,emby-a.nubebelle.vip
 DOMAIN-SUFFIX,emby-b.nubebelle.vip
@@ -22,68 +35,33 @@ DOMAIN-SUFFIX,emby-c.nubebelle.vip
 DOMAIN-SUFFIX,emby.nubebelle.vip
 DOMAIN-SUFFIX,emby.nubebelle.cn
 DOMAIN-SUFFIX,emby-sg.nubebelle.vip
-#> 稳健
+#> Youno
+DOMAIN-SUFFIX,emby.younoyes.com
+# 直连
+DOMAIN-SUFFIX,jp.younoyes.com
+DOMAIN-SUFFIX,us.younoyes.com
+#> ikun音乐服
+DOMAIN-SUFFIX,diaojinping.de
+#> PlayZ
+DOMAIN-SUFFIX,playz.mjji.de
+#> Lemby
+DOMAIN-SUFFIX,lemby.me
+DOMAIN-SUFFIX,cf.lemby.me
+DOMAIN-SUFFIX,us.lemby.me
+#> 游骑兵
+DOMAIN-SUFFIX,emby.heisi.org
+#> 稳健音书服
 DOMAIN-SUFFIX,wenjian.de
 DOMAIN-SUFFIX,music.wenjian.de
 DOMAIN-SUFFIX,yin.wenjian.de
 DOMAIN-SUFFIX,book.hsu.life
 DOMAIN-SUFFIX,book.wenjian.de
-#> Youno
-DOMAIN-SUFFIX,younoyes.com
-DOMAIN-SUFFIX,emby.younoyes.com
-DOMAIN-SUFFIX,jp.younoyes.com
-DOMAIN-SUFFIX,us.younoyes.com
-DOMAIN-SUFFIX,diaojinping.de
-DOMAIN-SUFFIX,playz.mjji.de
-DOMAIN-SUFFIX,lemby.me
-DOMAIN-SUFFIX,cf.lemby.me
-DOMAIN-SUFFIX,us.lemby.me
-DOMAIN-SUFFIX,emby.heisi.org
+#> 音海拾贝音乐服
 DOMAIN-SUFFIX,yinhai.aiinyue.com
+#> 南瓜音乐服
 DOMAIN-SUFFIX,vip.nangua.de
-DOMAIN-SUFFIX,123456.al
-DOMAIN-SUFFIX,285286.xyz
-DOMAIN-SUFFIX,agahk1.jmsooo.com
-DOMAIN-SUFFIX,aws.jmsooo.com
-DOMAIN-SUFFIX,cf1.jmsooo.com
-DOMAIN-SUFFIX,cristiamo.xyz
-DOMAIN-SUFFIX,emby.cjpc.cc
-DOMAIN-SUFFIX,emby.cjpc.tv
-DOMAIN-SUFFIX,emby.cjpc.xyz
-DOMAIN-SUFFIX,emby.cristiamo.top
-DOMAIN-SUFFIX,emby.flowercloud.yt
-DOMAIN-SUFFIX,emby.immtel.com
-DOMAIN-SUFFIX,emby.maying.club
-DOMAIN-SUFFIX,emby.mcwy.me
-DOMAIN-SUFFIX,emby.mdss.cloud
-DOMAIN-SUFFIX,emby.neko.edu.rs
-DOMAIN-SUFFIX,emby.nexitally.com
-DOMAIN-SUFFIX,emby.nyancat.net
-DOMAIN-SUFFIX,emby.ok.edu.hk
-DOMAIN-SUFFIX,emby.paoche.ooo
-DOMAIN-SUFFIX,emby.prprcloud.com
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,emby.xeton.dev
-DOMAIN-SUFFIX,emby.ytoo.li
-DOMAIN-SUFFIX,embymv.tk
-DOMAIN-SUFFIX,embyplus.org
-DOMAIN-SUFFIX,embyserver.ga
-DOMAIN-SUFFIX,hinet.jmsooo.com
-DOMAIN-SUFFIX,imetyou.top
-DOMAIN-SUFFIX,jellyfin.asia
-DOMAIN-SUFFIX,jellyfin.xeton.dev
-DOMAIN-SUFFIX,line.emby.men
-DOMAIN-SUFFIX,mickeycloud.com
-DOMAIN-SUFFIX,movie.xeton.dev
-DOMAIN-SUFFIX,ntt1.jmsooo.com
-DOMAIN-SUFFIX,ohhhh.org
-DOMAIN-SUFFIX,peachmv.me
-DOMAIN-SUFFIX,pilipiliultra.com
-DOMAIN-SUFFIX,plusmedia.site
-DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN-SUFFIX,pornemby.club
-DOMAIN-SUFFIX,servers.xeton.dev
-DOMAIN-SUFFIX,xmsl.org
+#> 未响音乐服
+DOMAIN,music.mefun.org
 # > ntRRR
 DOMAIN-SUFFIX, stream.ntrrr.top
 DOMAIN-SUFFIX, stream.synn.cc
@@ -208,6 +186,54 @@ DOMAIN-SUFFIX,gfwemby.org
 DOMAIN-SUFFIX,loseremby.org
 # > Cc
 DOMAIN,cc.ccemby.tk
+#> 其他
+DOMAIN,cf.yunti.online
+DOMAIN,emby.enjoyit.eu.org
+DOMAIN,emby.lcloud.wiki
+DOMAIN,notnetflix.cos.cat
+DOMAIN-SUFFIX,123456.al
+DOMAIN-SUFFIX,285286.xyz
+DOMAIN-SUFFIX,agahk1.jmsooo.com
+DOMAIN-SUFFIX,aws.jmsooo.com
+DOMAIN-SUFFIX,cf1.jmsooo.com
+DOMAIN-SUFFIX,cristiamo.xyz
+DOMAIN-SUFFIX,emby.cjpc.cc
+DOMAIN-SUFFIX,emby.cjpc.tv
+DOMAIN-SUFFIX,emby.cjpc.xyz
+DOMAIN-SUFFIX,emby.cristiamo.top
+DOMAIN-SUFFIX,emby.flowercloud.yt
+DOMAIN-SUFFIX,emby.immtel.com
+DOMAIN-SUFFIX,emby.maying.club
+DOMAIN-SUFFIX,emby.mcwy.me
+DOMAIN-SUFFIX,emby.mdss.cloud
+DOMAIN-SUFFIX,emby.neko.edu.rs
+DOMAIN-SUFFIX,emby.nexitally.com
+DOMAIN-SUFFIX,emby.nyancat.net
+DOMAIN-SUFFIX,emby.ok.edu.hk
+DOMAIN-SUFFIX,emby.paoche.ooo
+DOMAIN-SUFFIX,emby.prprcloud.com
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,emby.ytoo.li
+DOMAIN-SUFFIX,embymv.tk
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,embyserver.ga
+DOMAIN-SUFFIX,hinet.jmsooo.com
+DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,jellyfin.asia
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,line.emby.men
+DOMAIN-SUFFIX,mickeycloud.com
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,ntt1.jmsooo.com
+DOMAIN-SUFFIX,ohhhh.org
+DOMAIN-SUFFIX,peachmv.me
+DOMAIN-SUFFIX,pilipiliultra.com
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,servers.xeton.dev
+DOMAIN-SUFFIX,xmsl.org
 # > aca
 DOMAIN,emby.aca.best
 DOMAIN,porn.aca.best
