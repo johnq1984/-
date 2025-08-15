@@ -6,11 +6,11 @@
 #> 纸片党
 DOMAIN-SUFFIX,media.nijigem.by
 #> Nya硬盘服
-DOMAIN,ap-cn01.emby.bangumi.ca
+DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
 #> 105º
 DOMAIN-SUFFIX,ciallo.party
 #> 存档服
-DOMAIN,emby.zn.al
+DOMAIN-SUFFIX,emby.zn.al
 #> 守候网络
 DOMAIN-SUFFIX,lite.cn2gias.uk
 #> 肯德基公费服
@@ -35,29 +35,29 @@ DOMAIN,emby.nubebelle.vip
 DOMAIN,emby.nubebelle.cn
 DOMAIN,emby-sg.nubebelle.vip
 #> Youno
-DOMAIN,emby.younoyes.com
+DOMAIN-SUFFIX,emby.younoyes.com
 #> ikun音乐服
 DOMAIN-SUFFIX,diaojinping.de
 #> PlayZ
 DOMAIN-SUFFIX,playz.mjji.de
 #> Lemby
 DOMAIN-SUFFIX,lemby.me
-DOMAIN-SUFFIX,cf.lemby.me
-DOMAIN-SUFFIX,us.lemby.me
+DOMAIN,cf.lemby.me
+DOMAIN,us.lemby.me
 #> 游骑兵
 DOMAIN-SUFFIX,emby.heisi.org
 #> 稳健音书服
 DOMAIN-SUFFIX,wenjian.de
-DOMAIN-SUFFIX,music.wenjian.de
-DOMAIN-SUFFIX,yin.wenjian.de
-DOMAIN-SUFFIX,book.hsu.life
-DOMAIN-SUFFIX,book.wenjian.de
+DOMAIN,music.wenjian.de
+DOMAIN,yin.wenjian.de
+DOMAIN,book.hsu.life
+DOMAIN,book.wenjian.de
 #> 音海拾贝音乐服
 DOMAIN-SUFFIX,yinhai.aiinyue.com
 #> 南瓜音乐服
 DOMAIN-SUFFIX,vip.nangua.de
 #> 未响音乐服
-DOMAIN,music.mefun.org
+DOMAIN-SUFFIX,music.mefun.org
 # > ntRRR
 DOMAIN-SUFFIX, stream.ntrrr.top
 DOMAIN-SUFFIX, stream.synn.cc
