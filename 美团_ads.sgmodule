@@ -32,8 +32,5 @@ http-response ^https?:\/\/img\.meituan\.net\/dpmobile\/ script-path=https://raw.
 # 首页领券悬浮红包
 ^https?:\/\/mall\.meituan\.com\/api\/c\/homepage\/bubble\/operate\/info mock-response-body data-type=json data="{"code": 0}"
 
-# =====================================
-# MITM：中间人攻击，解密/跳过相关域名的内容，"-"开头为跳过
-# =====================================
 [MITM]
-hostname = %APPEND% s3plus.meituan.net, cdb.meituan.com, peisongapi.meituan.com, img.meituan.net,portal-portm.meituan.com, mall.meituan.com, flowplus.meituan.net
+hostname = %APPEND% flowplus.meituan.net, s3plus.meituan.net, cdb.meituan.com, peisongapi.meituan.com, img.meituan.net,portal-portm.meituan.com, mall.meituan.com, flowplus.meituan.net
