@@ -1,5 +1,5 @@
-#!name = 美团去广告
-#!desc = 去除美团广告
+#!name = 美团系去广告
+#!desc = 美团、美团外卖、美团众包、美团充电宝小程序、小象超市（去除广告）
 #!category = 去广告
 
 [Rule]
@@ -36,4 +36,4 @@ http-response ^https?:\/\/img\.meituan\.net\/dpmobile\/ script-path=https://raw.
 # MITM：中间人攻击，解密/跳过相关域名的内容，"-"开头为跳过
 # =====================================
 [MITM]
-s3plus.meituan.net, cdb.meituan.com, peisongapi.meituan.com, img.meituan.net,portal-portm.meituan.com, mall.meituan.com, flowplus.meituan.net
+hostname = s3plus.meituan.net, cdb.meituan.com, peisongapi.meituan.com, img.meituan.net,portal-portm.meituan.com, mall.meituan.com, flowplus.meituan.net
