@@ -36,4 +36,4 @@ http-response ^https?:\/\/img\.meituan\.net\/dpmobile\/ script-path=https://raw.
 # MITM：中间人攻击，解密/跳过相关域名的内容，"-"开头为跳过
 # =====================================
 [MITM]
-hostname = s3plus.meituan.net, cdb.meituan.com, peisongapi.meituan.com, img.meituan.net,portal-portm.meituan.com, mall.meituan.com, flowplus.meituan.net
+hostname = %APPEND% s3plus.meituan.net, cdb.meituan.com, peisongapi.meituan.com, img.meituan.net,portal-portm.meituan.com, mall.meituan.com, flowplus.meituan.net
