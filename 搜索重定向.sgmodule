@@ -1,5 +1,5 @@
-#!name = 重定向
-#!desc = 重定向模块
+#!name = 搜索重定向
+#!desc = 搜索重定向模块
 #!author = DivineEngine
 
 [URL Rewrite]
