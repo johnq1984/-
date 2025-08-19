@@ -48,6 +48,7 @@ DOMAIN,us.lemby.me
 DOMAIN-SUFFIX,emby.heisi.org
 #> 稳健音书服
 DOMAIN-SUFFIX,wenjian.de
+DOMAIN,emby.wenjian.de
 DOMAIN,music.wenjian.de
 DOMAIN,yin.wenjian.de
 DOMAIN,book.hsu.life
