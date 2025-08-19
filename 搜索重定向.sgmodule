@@ -1,0 +1,12 @@
+#!name=谷歌增强
+#!desc=将Google搜索重定向至.com域名，如遇频繁跳转请禁用本模块。
+#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]
+#!category=优化增强
+#!date=2025-05-31 16:46:00
+
+[URL Rewrite]
+^https?://(www.)?g.cn https://www.google.com 302
+^https?://(www.)?google.cn https://www.google.com 302
+
+[MITM]
+hostname = %APPEND% www.google.cn
